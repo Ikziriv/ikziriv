@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ivan](https://www.ikziriv.com)!! 👋
 For Digital name : Ikziriv
-You can call me : Rizky / Ivan / Izky
+<br> You can call me : Rizky / Ivan / Izky
 
 - 🔭 I’m currently working as a Fullstack Developer
 - 🌱 I’m currently learning Livewire, Laravel, Flutter
@@ -23,7 +23,7 @@ Projects reviews that I touch with my cold hands 😄 :
 - Before [Kugelmans](https://www.kugelmans.com/) After [Kugelmans](http://phplaravel-478346-1938053.cloudwaysapps.com/) Stat : Finish
 - Before [Apotekmart](http://www.apotekmart.com/) After [Kugelmans](http://phplaravel-478346-1938053.cloudwaysapps.com/) Stat : Ongoing
 
-Thank You for Visiting
+<b>Thank You for Visiting</b>
 
 <!--
 **Ikziriv/ikziriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
