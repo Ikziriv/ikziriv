@@ -6,7 +6,7 @@ For Digital name : Ikziriv
 - 🌱 I’m currently learning Livewire, Laravel, Flutter
 - 👯 I’m looking to collaborate on design about Tailwind CSS, for backend about Laravel
 - 💬 Ask me about anything related to Design, UIUX, Laravel
-- 📫 Reach out to me directly through on instagram [Instagram](https://www.instagram.com/ikziriv.art)
+- 📫 Reach out to me directly through on instagram [ikziriv.art](https://www.instagram.com/ikziriv.art)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The front view of an application is much more pleasing to the eye than the back of the application.
 
