@@ -17,11 +17,11 @@ Below is the exhaustive list of the experiment me about design
 - [Pinterest](https://www.pinterest.com/Ikziriv/)
 
 Projects reviews that I touch with my cold hands 😄 :
-- [Bicaraprint](http://phplaravel-478346-1675448.cloudwaysapps.com/) Stat : HOLD
-- [SREA](http://phplaravel-478346-1761094.cloudwaysapps.com/) Stat : Finish
-- [Cryptown](http://phplaravel-478346-1761820.cloudwaysapps.com/) Stat : Finish
-- Before [Kugelmans](https://www.kugelmans.com/) After [Kugelmans](http://phplaravel-478346-1938053.cloudwaysapps.com/) Stat : Finish
-- Before [Apotekmart](http://www.apotekmart.com/) After [Kugelmans](http://phplaravel-478346-1938053.cloudwaysapps.com/) Stat : Ongoing
+- [Bicaraprint](http://phplaravel-478346-1675448.cloudwaysapps.com/) ( HOLD )
+- [SREA](http://phplaravel-478346-1761094.cloudwaysapps.com/) ( Finish )
+- [Cryptown](http://phplaravel-478346-1761820.cloudwaysapps.com/) ( Finish )
+- Before [Kugelmans](https://www.kugelmans.com/) After [Kugelmans](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Finish )
+- Before [Apotekmart](http://www.apotekmart.com/) After [Kugelmans](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Ongoing )
 
 <b>Thank You for Visiting</b>
 
