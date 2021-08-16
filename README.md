@@ -10,7 +10,7 @@ For Digital name : Ikziriv
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The front view of an application is much more pleasing to the eye than the back of the application.
 
-Below is the exhaustive list of the experiment me about design
+Below is the exhaustive list of the experiment about design
 - [Behance](https://www.behance.net/ikziriv)
 - [Dribbble](https://dribbble.com/Ikziriv)
 - [DeviantArt](https://www.deviantart.com/ikzirivart)
