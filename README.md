@@ -21,7 +21,7 @@ Projects reviews that I touch with my cold hands 😄 :
 - [SREA](http://phplaravel-478346-1761094.cloudwaysapps.com/) Stat : Finish
 - [Cryptown](http://phplaravel-478346-1761820.cloudwaysapps.com/) Stat : Finish
 - Before [Kugelmans](https://www.kugelmans.com/) After [Kugelmans](http://phplaravel-478346-1938053.cloudwaysapps.com/) Stat : Finish
-- Before [Apotekmart](http://www.apotekmart.com/) After [Kugelmans](http://phplaravel-478346-1938053.cloudwaysapps.com/) Stat : Finish
+- Before [Apotekmart](http://www.apotekmart.com/) After [Kugelmans](http://phplaravel-478346-1938053.cloudwaysapps.com/) Stat : Ongoing
 
 Thank You for Visiting
 
