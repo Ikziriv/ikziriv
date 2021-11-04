@@ -1,9 +1,6 @@
 ### Hi there, I'm [Ivan](https://www.ikziriv.com)!! 👋
 For Digital name : Ikziriv
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mWnpeOWdT7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[ Waneella ] - Horizon (<a href="https://www.youtube.com/watch?v=mWnpeOWdT7c&ab_channel=waneella" target="_blank">Youtube</a>)
-
 - 🔭 I’m currently working as a Fullstack Developer ( 60% Frontend / 40% Backend )
 - 🌱 I’m currently learning Svelte, Livewire, Laravel, Flutter
 - 👯 I’m looking to collaborate on design about Tailwind CSS, for backend about Laravel
@@ -13,8 +10,7 @@ For Digital name : Ikziriv
 - ⚡ Fun fact: The front view of an application is much more pleasing to the eye than the back of the application.
 
 Below is the exhaustive list of the experiment about design
-- [Behance](https://www.behance.net/ikziriv) - [Dribbble](https://dribbble.com/Ikziriv) - [DeviantArt](https://www.deviantart.com/ikzirivart)
-- [Pinterest](https://www.pinterest.com/Ikziriv/)
+- [Behance](https://www.behance.net/ikziriv) - [Dribbble](https://dribbble.com/Ikziriv) - [DeviantArt](https://www.deviantart.com/ikzirivart) - [Pinterest](https://www.pinterest.com/Ikziriv/)
 
 Projects reviews that I touch with my cold hands 😄 :
 - [Bicaraprint](http://phplaravel-478346-1675448.cloudwaysapps.com/) ( HOLD )
