@@ -18,8 +18,8 @@ Projects reviews that I touch with my cold hands 😄 :
 - [Cryptown](http://phplaravel-478346-1761820.cloudwaysapps.com/) ( Finish )
 - Kugelmans [Before](https://www.kugelmans.com/) - [After](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Finish )
 - Apotekmart [Before](http://www.apotekmart.com/) - [After](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Ongoing )
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikziriv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- 
+[![Ikziriv wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ikziriv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Thank You for Visiting</b>
 
