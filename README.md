@@ -19,7 +19,7 @@ Projects reviews that I touch with my cold hands 😄 :
 - Kugelmans [Before](https://www.kugelmans.com/) - [After](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Finish )
 - Apotekmart [Before](http://www.apotekmart.com/) - [After](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Ongoing )
 - 
-[![Ikziriv wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ikziriv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ikziriv wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ikziriv)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Thank You for Visiting</b>
 
