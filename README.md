@@ -20,7 +20,7 @@ Projects reviews that I touch with my cold hands 😄 :
 - Apotekmart [Before](http://www.apotekmart.com/) - [After](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Ongoing )
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ikziriv&repo=sanco-app)](https://github.com/Ikziriv/sanco-app)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikziriv&hide=html,css,php,blade&langs_count=4&layout=compact&theme=graywhite&bg_color=#161b22,#0c0f13)](https://github.com/Ikziriv)
+&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikziriv&hide=html,css,php,blade&langs_count=4&layout=compact&theme=graywhite&bg_color=#161b22,#0c0f13)](https://github.com/Ikziriv)
 
 
 <b>Thank You for Visiting</b>
