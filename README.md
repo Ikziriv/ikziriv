@@ -1,6 +1,6 @@
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/Ikziriv/ikziriv/main/assets/ikziriv.jpg" alt="ikziriv"/>
-</h3>  <br><br>
+</h3>  <br>
 ### Hi there  👋
 Digital name : [Ikziriv](https://www.ikziriv.com) <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-Ikziriv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikziriv/)](https://www.linkedin.com/in/ikziriv/) [![Gmail Badge](https://img.shields.io/badge/-ikziriv.art@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ikziriv.art@gmail.com)](mailto:ikziriv.art@gmail.com)
