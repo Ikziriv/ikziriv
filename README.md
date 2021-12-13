@@ -1,7 +1,7 @@
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/Ikziriv/ikziriv/main/assets/ikziriv.jpg" alt="ikziriv"/>
 </h3>
-### Hi there 👋 [Ikziriv](https://www.ikziriv.com) <br><br>
+### Hi there 👋 [Ikziriv](https://ikziriv.com) <br><br>
 
 - 🔭 I’m currently working as a Fullstack Developer ( 60% Frontend / 40% Backend )
 - 🌱 I’m currently learning Svelte, Livewire, Laravel, Flutter
