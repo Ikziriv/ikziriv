@@ -3,8 +3,6 @@
 </h3>
 ### Hi there 👋 [Ikziriv](https://www.ikziriv.com) <br><br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ikziriv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikziriv/)](https://www.linkedin.com/in/ikziriv/) <br> [![Gmail Badge](https://img.shields.io/badge/-ikziriv.art@gmail.com-c14438?style=flat--square&logo=Gmail&logoColor=white&link=mailto:ikziriv.art@gmail.com)](mailto:ikziriv.art@gmail.com)
-
 - 🔭 I’m currently working as a Fullstack Developer ( 60% Frontend / 40% Backend )
 - 🌱 I’m currently learning Svelte, Livewire, Laravel, Flutter
 - 👯 I’m looking to collaborate on design about Tailwind CSS, for backend about Laravel
@@ -15,6 +13,8 @@
 
 Below is the exhaustive list of the experiment about design
 - [Behance](https://www.behance.net/ikziriv) - [Dribbble](https://dribbble.com/Ikziriv) - [DeviantArt](https://www.deviantart.com/ikzirivart) - [Pinterest](https://www.pinterest.com/Ikziriv/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ikziriv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikziriv/)](https://www.linkedin.com/in/ikziriv/) [![Gmail Badge](https://img.shields.io/badge/-ikziriv.art@gmail.com-c14438?style=flat--square&logo=Gmail&logoColor=white&link=mailto:ikziriv.art@gmail.com)](mailto:ikziriv.art@gmail.com)
 
 Projects reviews that I touch with my cold hands 😄 :
 - [Bicaraprint](http://phplaravel-478346-1675448.cloudwaysapps.com/) ( HOLD )
