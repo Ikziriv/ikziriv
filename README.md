@@ -15,13 +15,6 @@ Below is the exhaustive list of the experiment about design
 - [Behance](https://www.behance.net/ikziriv) - [Dribbble](https://dribbble.com/Ikziriv) - [DeviantArt](https://www.deviantart.com/ikzirivart) - [Pinterest](https://www.pinterest.com/Ikziriv/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ikziriv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikziriv/)](https://www.linkedin.com/in/ikziriv/) [![Gmail Badge](https://img.shields.io/badge/-ikziriv.art@gmail.com-c14438?style=flat--square&logo=Gmail&logoColor=white&link=mailto:ikziriv.art@gmail.com)](mailto:ikziriv.art@gmail.com)
-
-Projects reviews that I touch with my cold hands 😄 :
-- [Bicaraprint](http://phplaravel-478346-1675448.cloudwaysapps.com/) ( HOLD )
-- [SREA](http://phplaravel-478346-1761094.cloudwaysapps.com/) ( Finish )
-- [Cryptown](http://phplaravel-478346-1761820.cloudwaysapps.com/) ( Finish )
-- Kugelmans [Before](https://www.kugelmans.com/) - [After](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Finish )
-- Apotekmart [Before](http://www.apotekmart.com/) - [After](http://phplaravel-478346-1938053.cloudwaysapps.com/) ( Ongoing )
 <br><br>
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/Ikziriv/ikziriv/master/assets/assets-img.png" alt="stacks"/>
