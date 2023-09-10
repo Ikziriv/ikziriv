@@ -1,7 +1,7 @@
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/Ikziriv/ikziriv/main/assets/ikziriv.jpg" alt="ikziriv"/>
 </h3>
-### Hi there 👋 
+Hi there 👋 
 
 - 🔭 I’m currently working as a Fullstack Developer ( 60% Frontend / 40% Backend )
 - 🌱 I’m currently learning Svelte, Sveltekit, Rust, Go, Livewire, Laravel, Flutter
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: The front view of an application is much more pleasing to the eye than the back of the application.
 
 ### Solo Developer for
-- [Kalsofit](https://www.kalsofit.com) - [TFMKIT](https://tfmkit.com)
+- [Kalsofit.com](https://www.kalsofit.com) - [Tfmkit.com](https://tfmkit.com)
 ### Below is the exhaustive list of the experiment about design
 - [Behance](https://www.behance.net/ikziriv) - [Dribbble](https://dribbble.com/Ikziriv) - [DeviantArt](https://www.deviantart.com/ikzirivart) - [Pinterest](https://www.pinterest.com/Ikziriv/)
 
