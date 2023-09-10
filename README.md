@@ -7,13 +7,13 @@
 - 🌱 I’m currently learning Svelte, Sveltekit, Rust, Go, Livewire, Laravel, Flutter
 - 👯 I’m looking to collaborate on design about Tailwind CSS, for backend about Laravel
 - 💬 Ask me about anything related to Design, UIUX, Laravel
-- 📫 Reach out to me directly through on website [ikziriv.art](https://www.ikziriv.com) or instagram [ikziriv.art](https://www.instagram.com/ikziriv.art)
+- 📫 Reach out to me directly through on website [Ikziriv.com](https://www.ikziriv.com) or instagram [Ikziriv.art](https://www.instagram.com/ikziriv.art)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The front view of an application is much more pleasing to the eye than the back of the application.
 
-Solo Developer for
+### Solo Developer for
 - [Kalsofit](https://www.kalsofit.com) - [TFMKIT](https://tfmkit.com)
-Below is the exhaustive list of the experiment about design
+### Below is the exhaustive list of the experiment about design
 - [Behance](https://www.behance.net/ikziriv) - [Dribbble](https://dribbble.com/Ikziriv) - [DeviantArt](https://www.deviantart.com/ikzirivart) - [Pinterest](https://www.pinterest.com/Ikziriv/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ikziriv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ikziriv/)](https://www.linkedin.com/in/ikziriv/) [![Gmail Badge](https://img.shields.io/badge/-ikziriv.art@gmail.com-c14438?style=flat--square&logo=Gmail&logoColor=white&link=mailto:ikziriv.art@gmail.com)](mailto:ikziriv.art@gmail.com)
