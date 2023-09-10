@@ -1,16 +1,18 @@
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/Ikziriv/ikziriv/main/assets/ikziriv.jpg" alt="ikziriv"/>
 </h3>
-### Hi there 👋 [Ikziriv](https://ikziriv.com) <br><br>
+### Hi there 👋 
 
 - 🔭 I’m currently working as a Fullstack Developer ( 60% Frontend / 40% Backend )
 - 🌱 I’m currently learning Svelte, Sveltekit, Rust, Go, Livewire, Laravel, Flutter
 - 👯 I’m looking to collaborate on design about Tailwind CSS, for backend about Laravel
 - 💬 Ask me about anything related to Design, UIUX, Laravel
-- 📫 Reach out to me directly through on instagram [ikziriv.art](https://www.instagram.com/ikziriv.art)
+- 📫 Reach out to me directly through on website [ikziriv.art](https://www.ikziriv.com) or instagram [ikziriv.art](https://www.instagram.com/ikziriv.art)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The front view of an application is much more pleasing to the eye than the back of the application.
 
+Solo Developer for
+- [Kalsofit](https://www.kalsofit.com) - [TFMKIT](https://tfmkit.com)
 Below is the exhaustive list of the experiment about design
 - [Behance](https://www.behance.net/ikziriv) - [Dribbble](https://dribbble.com/Ikziriv) - [DeviantArt](https://www.deviantart.com/ikzirivart) - [Pinterest](https://www.pinterest.com/Ikziriv/)
 
