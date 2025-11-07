@@ -5,7 +5,7 @@
 <h1 align="center">Hey there 👋, I'm Ikziriv</h1>
 
 <p align="center">
-  🚀 <b>Fullstack Developer</b> — crafting seamless experiences from pixel to production.  
+  🚀 <b>Fullstack Developer</b> — Crafting Seamless Experiences from Pixel to Production.  
 </p>
 
 ---
